@@ -1,0 +1,39 @@
+// @mixin flex {
+//     display: flex;
+//     flex-direction: row;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+// .container {
+//     @include flex();
+// }
+
+// может принимать переменные
+// @mixin flex ($align, $justify : "flex-start") {
+//     display: flex;
+//     flex-direction: row;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+// здесь мы вызываем стили
+// .container {
+//     @include flex("center", "center");
+//     padding: 40px;
+// }
+
+@mixin desktop() {
+    @media (min-width: 800px) {
+        @content;
+    }
+}
+
+// .button {
+
+//     @include desktop() {
+//         &hover{
+//             transform: translateY(-2px);
+//         }
+//     }
+// }

@@ -1,0 +1,28 @@
+.postCreation {
+    background-color: white;
+    color: hsla(238, 22%, 27%, 1);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 52px 96px;
+    gap: 20px;
+    font-family: Century Gothic;    
+
+    .pageName{
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .input{
+        width: 100%;
+        border: 1px solid grey;
+        border-radius: 20px;
+        padding: 15px;
+    }
+
+    .button{
+        width: 218px;
+        height: 56px;
+    }
+}

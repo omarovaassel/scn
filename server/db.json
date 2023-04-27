@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "anime",
+      "password": "qwerty",
+      "avatar": "https://img.freepik.com/free-photo/medium-shot-woman-with-surf-board_23-2150323012.jpg?w=1060&t=st=1682607813~exp=1682608413~hmac=ef0438455285808b3547555e335795118e1d4df2089c7329563c9c7a2b8a18be"
+    },
+    {
+      "id": 2,
+      "login": "anime1",
+      "password": "qwerty",
+      "avatar": "https://img.freepik.com/free-photo/smiley-woman-with-camera-indoors_23-2148503617.jpg?w=1060&t=st=1682607819~exp=1682608419~hmac=5121af718b2beedbe0fca87fff314b14ea0bb4371ea25c75202be03b065e96b5"
+    },
+    {
+      "id": 3,
+      "login": "anime2",
+      "password": "qwerty",
+      "avatar": "https://img.freepik.com/free-photo/closeup-of-woman-using-camera-taking-photo-grayscale_53876-23018.jpg?w=1060&t=st=1682607824~exp=1682608424~hmac=4e846357aece1626a56176d8bd8a599c9be1fa1c2256521f904d4aa86eebbbfa"
+    },
+    {
+      "login": "test",
+      "password": "test",
+      "id": 4,
+      "avatar": "https://img.freepik.com/free-photo/top-view-of-leaves-frame-concept-with-copy-space_23-2148553276.jpg?w=1060&t=st=1682608098~exp=1682608698~hmac=33bb8828ec6f187e5ce5a9164e3baea175a49435af6960c623eb54f839acd8bc"
+    },
+    {
+      "login": "eco",
+      "password": "123",
+      "id": 5,
+      "avatar": "https://img.freepik.com/free-photo/gradient-speakers-with-extremely-high-volume_23-2149625696.jpg?w=1060&t=st=1682607854~exp=1682608454~hmac=18a7b39234aba7ef490c73d9734585a24fee6f99da7dfeefdf0e77e7e344c029"
+    },
+    {
+      "login": "ecolog",
+      "password": "123",
+      "avatar": "https://img.freepik.com/free-photo/pomegranate-over-outline-floral-background_171337-11131.jpg?w=1060&t=st=1682607944~exp=1682608544~hmac=b96e569fb88fec4a578d6ddd274bd9401dcaead77f892971cc1d00042fbbd98b",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/cute-tote-bag-with-say-no-to-plastic-text-watercolor_53876-103063.jpg?w=1060&t=st=1682073427~exp=1682074027~hmac=7aea4e8414f006db90fa36524394cb051e0f8a3c1c5adbaf4acbc7afd7961f71",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/portrait-of-smiley-woman-carrying-groceries_23-2148672921.jpg?w=1060&t=st=1682073429~exp=1682074029~hmac=7ddd9593d84ba47d9f50a901a06ab908b6dc6e9e59ac74a348f283da978797af",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/flat-lay-recycling_23-2148834469.jpg?w=1060&t=st=1682073435~exp=1682074035~hmac=d0bc614f4cca5b7b4a10f9d3f0d49bda77cc7225c2f42d4eaaa5f166d3885272",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/environment-education-day-concept_23-2148746484.jpg?w=1060&t=st=1682073439~exp=1682074039~hmac=4b3dd6e3ab1b0e530c28466d6c1eec3f9a59dbc833700b8d72f6f378a51a803d",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/plastic-pollution-awareness-with-when-you-throw-it-away-there-is-no-away-text_53876-104384.jpg?w=1060&t=st=1682073444~exp=1682074044~hmac=84199339f7f552c12ca3c8f73a81d3b8e3163781cb9b33dd56417c4a3baaa8c4",
+      "userId": 3
+    },
+    {
+      "id": 6,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/volunteers-collecting-waste-at-the-beach_23-2147826999.jpg?w=1060&t=st=1682073457~exp=1682074057~hmac=2e672e9e0d2285e25e8fba46935bfceea65f79021e36923d052bf667c689a500",
+      "userId": 3
+    },
+    {
+      "id": 7,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/arrangement-of-zero-waste-lettering-on-leaves-with-copy-space_23-2148491133.jpg?w=1060&t=st=1682605419~exp=1682606019~hmac=dc43b40b762fe8dfdcc2df4a03400b8dfd3ee9a6e6915f40f52ba1126e396a18",
+      "userId": 3
+    },
+    {
+      "id": 8,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/activists-hugging-walking-with-trash-bags-in-woods_23-2147826354.jpg?w=1060&t=st=1682605421~exp=1682606021~hmac=91c93d90e5e5c92502c31711c408980bd1db458812f35f2e2e65da08aaee5470",
+      "userId": 3
+    },
+    {
+      "id": 9,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/front-view-cute-children-learning-how-to-recycle_23-2148490312.jpg?w=1060&t=st=1682605428~exp=1682606028~hmac=a6ad0d543ee7245cfc4444de987844052aed5018c2f9aeaad4e1d78cb8a1937b",
+      "userId": 3
+    },
+    {
+      "id": 10,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/environment-and-volunteer-concept_23-2147807251.jpg?w=1060&t=st=1682605435~exp=1682606035~hmac=758d0e92a10911363d59e419a8347713420191cbaa173e40975399f1b3d1acfc",
+      "userId": 3
+    },
+    {
+      "id": 11,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/top-view-of-hands-holding-plasticine-globe-and-people-and-making-peace-sign_23-2148630370.jpg?w=1060&t=st=1682605441~exp=1682606041~hmac=32464e2efd4491cbc87fa6c732042cb0f60ed8a36409cc3562f6ef9484b2864e",
+      "userId": 3
+    },
+    {
+      "id": 12,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/two-businesspeople-analyzing-graph-in-office_23-2147826554.jpg?w=1060&t=st=1682605444~exp=1682606044~hmac=9efd48af24839d4c071e7a5b77200326c58c83a7d7090e136dd1911b59689a73",
+      "userId": 3
+    },
+    {
+      "id": 13,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/medium-shot-girl-covering-face-with-leaf_23-2148617224.jpg?w=1060&t=st=1682605452~exp=1682606052~hmac=58152d541ecb684d726b4de8b03bc92441460404ce980067cef0eedcdd5d30ae",
+      "userId": 3
+    },
+    {
+      "id": 14,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/close-up-of-a-globe-inside-transparent-plastic-bag_23-2147826733.jpg?w=1060&t=st=1682605476~exp=1682606076~hmac=c0e878e4ee6c38ac436f2f646e3eb549e0888de410350b4fc24d9b8fd9292ef1",
+      "userId": 3
+    },
+    {
+      "id": 15,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/environment-and-volunteer-concept_23-2147807185.jpg?w=1060&t=st=1682605597~exp=1682606197~hmac=18b420e7ae5f39ba986a1c9563a4517e00e741463de6138ff42dd96bc2470755",
+      "userId": 3
+    },
+    {
+      "id": 16,
+      "text": "some post text",
+      "image": "https://img.freepik.com/free-photo/trashcan-with-plastic-garbage-outdoors_23-2147826312.jpg?w=1060&t=st=1682605603~exp=1682606203~hmac=4d0ed123a34195eccfae515651cec7e3e47aeb5778bbb6ea6abb9919fc8b8ed8",
+      "userId": 3
+    }
+  ]
+}
